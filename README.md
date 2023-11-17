@@ -32,6 +32,10 @@ End the module.
 
 # PROGRAM
 ```
+Program to To Design and simulate the logic diagram using Verilog.
+Developed by: AJAY ASWIN.M
+RegisterNumber: 212222240005
+
 module e13 (x, y1, y2, z1, z2);
 input x,y1, y2;
 output z1, z2;
